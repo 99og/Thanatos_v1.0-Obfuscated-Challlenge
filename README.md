@@ -59,7 +59,7 @@ end=                                                             h,e,l,l,o,w,o,r
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/99og) for more information.
 
 ## Authors
 
