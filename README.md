@@ -63,4 +63,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/) for more i
 
 ## Authors
 
-* **The nicest guy on the planet** aka **zqh#0684 on discord** - *Python developer* - [.zqh](https://github.com/ShaanCoding/) - *Built ReadME Template*
+* **The nicest guy on the planet** aka **zqh#0684 on discord** - *Python developer* - [.zqh](https://github.com/99og) - *Built ReadME Template*
