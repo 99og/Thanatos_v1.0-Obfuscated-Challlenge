@@ -59,7 +59,7 @@ end=                                                             h,e,l,l,o,w,o,r
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/99og) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/99og/Thanatos_v1.0-Obfuscated-Challlenge/blob/main/LICENSE) for more information.
 
 ## Authors
 
