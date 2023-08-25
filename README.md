@@ -14,7 +14,7 @@
 ## What is Thanatos v1.0 and why ?
 *  Welcome to the Thanatos v1.0 Challenge ! This repository contains an obfuscated python sample (of Thanatos Obfuscator) v1.0 made in 2 days by The nicest guy on the planet aka zqh#0684. 
 * Your challenge is to deobfuscate this Python File. I invite everyone who want to participate to submit the deobfuscated code via Discord (if you want) : My server -> https://discord.gg/fKzWD9EP3h.
-* You absolutely have to be on windows, and be on python 3.11.5. The Python File dont work on Linux but it will on next version of Thanatos.
+* **You absolutely have to be on windows, and on python 3.11.5. The Python File dont work on Linux but it will on next version of Thanatos.**
 * I know there are many, many, many vulnerabilities in the code but keep in mind that I'm just a beginner in python since I've been doing it for a year ...
 * I apologize in advance but the file takes about 30 to 40 seconds to execute ( it depends on the components of your computer
 )  due to too many decompilations but don't worry I will fix the execution time in a future version
