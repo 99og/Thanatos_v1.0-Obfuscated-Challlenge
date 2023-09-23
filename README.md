@@ -3,10 +3,9 @@
   <a href="https://cdn.discordapp.com/attachments/1102599085216759839/1154940675201187890/Thanatos-obf-by-zqh0684trisrogned.png">
     <img src="https://cdn.discordapp.com/attachments/1102599085216759839/1154940675201187890/Thanatos-obf-by-zqh0684trisrogned.png" alt="Logo" ></a>
   <h3 align="center">Thanatos Challenge</h3>
-  <p align="center">
-> e  </p>
-</p>
 
+</p>
+> e
 ## What is Thanatos v1.0 and why ?
 *  Welcome to the Thanatos v1.0 Challenge ! This repository contains an obfuscated python sample (of Thanatos Obfuscator) v1.0 made in 2 days by The nicest guy on the planet aka zqh#0684. 
 * Your challenge is to deobfuscate this Python File. I invite everyone who want to participate to submit the deobfuscated code via Discord (if you want) : My server -> https://discord.gg/fKzWD9EP3h.
