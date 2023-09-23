@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
-  <a href="https://cdn.discordapp.com/attachments/1102599085216759839/1154932960068378724/Thanatos-obf-by-zqh0684bis.png">
-    <img src="https://cdn.discordapp.com/attachments/1102599085216759839/1154932960068378724/Thanatos-obf-by-zqh0684bis.png" alt="Logo" ></a>
+  <a href="https://cdn.discordapp.com/attachments/1102599085216759839/1154937423600562237/Thanatos-obf-by-zqh0684trisrogned.png">
+    <img src="https://cdn.discordapp.com/attachments/1102599085216759839/1154937423600562237/Thanatos-obf-by-zqh0684trisrogned.png" alt="Logo" ></a>
   <h3 align="center">Thanatos v1.0 Challenge</h3>
   <p align="center">
     A Cool Obfuscated Python File Challenge
