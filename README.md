@@ -4,7 +4,7 @@
     <img src="https://cdn.discordapp.com/attachments/1102599085216759839/1154940675201187890/Thanatos-obf-by-zqh0684trisrogned.png" alt="Logo" ></a>
   <h3 align="center">Thanatos Challenge</h3>
   <p align="center">
-    A Cool Obfuscated Python File Challenge made by zqh#0684
+   > A Cool Obfuscated Python File Challenge made by zqh#0684
   </p>
 </p>
 
