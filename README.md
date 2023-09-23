@@ -8,7 +8,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/99og/Thanatos_v1.0-Obfuscated-Challenge/total) ![License](https://img.shields.io/github/license) 
+![Downloads](https://img.shields.io/github/downloads/99og/Thanatos_v1.0-Obfuscated-Challlenge/total) ![License](https://img.shields.io/github/license) 
 
 
 ## What is Thanatos v1.0 and why ?
