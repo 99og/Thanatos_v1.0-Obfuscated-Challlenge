@@ -18,8 +18,7 @@
 )  due to too many decompilations but don't worry I will fix the execution time in a future version
 * Some may find this challenge easy some not, but the goal of this project is above all to have fun and increase your skills in python !
 * Btw I recommend to use a nice Visual Studio Code theme (or the IDE you are using) for a better appreciation of the code
-* And one last thing, this github will be where I upload my obfuscator projects/challenge and i'm already working on a new Obfuscated challenge : Project Esark-90 ( Yeah the names of my projects are inspired by the dragon quest series lmao )
-
+* And one last thing, this github will be where I upload my obfuscator projects/challenge and i'm already working on a new Obfuscated challenge : Atlax 
 
 
 
